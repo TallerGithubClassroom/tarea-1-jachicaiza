@@ -2,6 +2,6 @@
 
 ## Listado de Ejercicios a desarrollar
 
-- Uno
-- Dos
-- Tres
+- Uno - jachicaiza
+- Dos - krmita
+- Tres - aeromero
